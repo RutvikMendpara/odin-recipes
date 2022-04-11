@@ -1,0 +1,15 @@
+div {
+    color: aqua;
+    font-family: 'Segoe UI', Tahoma, "Geneva", Verdana, sans-serif;
+    text-align: justify;
+    font-size: 22px;
+    font-style: italic;
+    margin: 20px;
+    
+}
+img{
+    margin-left: 10px;
+    margin-top: 10px;
+    height: auto;
+    width: auto;
+}
